@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'KinopoiskRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/kinopoisk-regular.woff2') format('truetype');
+}
+@font-face {
+  font-family: 'KinopoiskMedium';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('~assets/fonts/kinopoisk-medium.woff2') format('truetype');
+}
+@font-face {
+  font-family: 'KinopoiskBold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/fonts/kinopoisk-semibold.woff2') format('truetype');
+}
+@font-face {
+  font-family: 'Futura';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/fonts/futura-bold.woff2') format('truetype');
+}
